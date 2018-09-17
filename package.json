@@ -1,0 +1,16 @@
+{
+  "name": "sunshine-bot",
+  "version": "0.0.1",
+  "description": "Sunshine Server Discord Bot",
+  "main": "bot.js",
+  "author": "Kaikina",
+  "scripts": { "start": "node bot.js"},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.3.2",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "winston": "^2.4.1"
+  }
+}
